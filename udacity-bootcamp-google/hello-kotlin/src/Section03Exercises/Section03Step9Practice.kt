@@ -1,3 +1,5 @@
+package Section03Exercises
+
 fun main(args: Array<String>){
     val fortune = getFortuneCookie2(getBirthday())
     println("Your fortune is $fortune")

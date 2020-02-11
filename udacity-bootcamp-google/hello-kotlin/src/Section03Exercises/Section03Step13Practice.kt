@@ -1,3 +1,5 @@
+package Section03Exercises
+
 fun main(args: Array<String>){
     println(whatShouldIDoToday("happy"))
 }
